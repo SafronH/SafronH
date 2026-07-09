@@ -6,7 +6,7 @@ Software Development graduate with experience in AI evaluation, IT support, and 
 
 - 🔹 News Quality Analyst – Welocalize
 - 🔹 Search Quality Rater – Welocalize
-- 🔹 Completed Anthropic AI Fluency
+- 🔹 Completed Anthropic AI Fluency: Framework & Foundations
 - 🔹 Completed Claude 101
 
 ## Technical Skills
