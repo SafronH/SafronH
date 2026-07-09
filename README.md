@@ -25,7 +25,7 @@ Software Development graduate with experience in AI evaluation, IT support, and 
 
 ### AriamStyle
 
-Designed, built, and manage **AriamStyle.com**, a WordPress affiliate website featuring:
+Designed, built, and manage AriamStyle.com, a WordPress affiliate website that uses AI-assisted content creation, original product descriptions, SEO optimization, and Amazon Associates integration.
 
 - AI-assisted content creation (reviewed and edited for accuracy)
 - Original product descriptions
