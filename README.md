@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Safron Haile 👋
 
-<!--
-**SafronH/SafronH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development graduate with experience in AI evaluation, IT support, and data analysis. Passionate about building practical AI-powered solutions and using technology to solve real-world problems.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 News Quality Analyst – Welocalize
+- 🔹 Search Quality Rater – Welocalize
+- 🔹 Completed Anthropic AI Fluency
+- 🔹 Completed Claude 101
+
+## Technical Skills
+
+- Python
+- Java
+- SQL
+- HTML/CSS
+- JavaScript
+- Git & GitHub
+- WordPress
+- AI Evaluation
+- Data Analysis
+
+## Featured Project
+
+### AriamStyle
+
+Designed, built, and manage **AriamStyle.com**, a WordPress affiliate website featuring:
+
+- AI-assisted content creation (reviewed and edited for accuracy)
+- Original product descriptions
+- Amazon Associates integration
+- SEO optimization
+- Website management and maintenance
+
+🌐 **Website:** https://ariamstyle.com
+
+## Current Goals
+
+I'm expanding my software development portfolio while exploring AI, automation, and practical applications of large language models. I'm interested in building AI tools that improve productivity, public service, and real-world decision-making.
+
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/safron-haile/
+- Website: https://ariamstyle.com
